@@ -30,39 +30,6 @@ The app stores student and attendance records locally using SQLite and provides 
 
 ---
 
-# Architecture diagram
-
-
-```text
-+--------------------+
-|   Teacher Login    |
-+----------+---------+
-           |
-           v
-+--------------------+
-| Main GUI Window    |
-| Seat Layout View   |
-+----------+---------+
-           |
-  ---------------------
-  |                   |
-  v                   v
-Mark Attendance   Add Student
-  |                   |
-  v                   v
-+---------------------------+
-|       SQLite Database     |
-+---------------------------+
-| Students Table            |
-| Attendance Table          |
-+---------------------------+
-           |
-           v
-   Attendance Reports
-```
-
----
-
 # Database schema
 
 ## Students Table
