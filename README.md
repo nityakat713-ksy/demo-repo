@@ -81,3 +81,150 @@ CREATE TABLE attendance (
 - Tkinter (usually bundled with Python)
 
 
+## Clone Repository
+
+```bash
+git clone https://github.com/nityakat713-ksy/demo-repo.git
+
+cd classroom-seat-attendance-manager
+```
+
+---
+
+# ▶ Running Locally
+
+```bash
+python main4.py
+```
+
+Default Login Credentials:
+
+```text
+Username: teacher
+Password: 1234
+```
+
+---
+
+# Folder Structure
+
+```text
+project/
+│
+├── main4.py
+├── database.db
+├── README.md
+│
+├── screenshots/
+│   ├── login.png
+│   ├── dashboard.png
+│   ├── attendance.png
+│
+└── assets/
+```
+
+---
+
+# Screenshots
+
+<img width="360" height="281" alt="Screenshot 2026-06-08 155750" src="https://github.com/user-attachments/assets/6e7fbcea-16d4-4eab-b0c5-24bc77109280" />
+
+<img width="749" height="807" alt="Screenshot 2026-06-08 160125" src="https://github.com/user-attachments/assets/bec90a07-826c-49dc-b979-ea0ed8774ba1" />
+
+<img width="483" height="535" alt="Screenshot 2026-06-08 160212" src="https://github.com/user-attachments/assets/22d85a66-d850-40df-90f0-2120bebcadbd" />
+
+<img width="1217" height="802" alt="Screenshot 2026-06-08 160342" src="https://github.com/user-attachments/assets/d5829dc6-b8fe-442a-b5f6-94d381c6cd6f" />
+
+<img width="660" height="798" alt="Screenshot 2026-06-08 160432" src="https://github.com/user-attachments/assets/8489099d-0473-4baa-9251-fd7b2a3cff86" />
+
+
+# Learning Outcomes
+
+Through this project, the following concepts were learned:
+
+- GUI development using Tkinter
+- SQLite database integration
+- CRUD operations
+- Event-driven programming
+- Data persistence
+- Python desktop application development
+- Database schema design
+
+---
+
+# Future Enhancements
+
+- Student search functionality
+- Attendance percentage analytics
+- Export attendance to Excel/PDF
+- Multi-teacher authentication
+- Password hashing
+- Student profile management
+- Monthly attendance reports
+- Cloud database support
+- QR-code attendance system
+- Face-recognition attendance
+
+---
+
+# MVP Features
+
+- Login system
+- Student registration
+- Seat allocation
+- Attendance marking
+- Attendance history
+- SQLite storage
+- GUI dashboard
+
+---
+
+# Contribution
+
+Contributions are welcome.
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit changes
+4. Push to your branch
+5. Open a Pull Request
+
+---
+
+# License
+
+This project is licensed under the MIT License.
+
+```text
+MIT License
+
+Copyright (c) 2026
+
+Permission is hereby granted, free of charge,
+to any person obtaining a copy of this software...
+```
+
+---
+
+# Project Evaluation
+
+## Strengths
+
+For a beginner/intermediate Python project, this is a solid academic project because it demonstrates:
+
+- GUI Development
+- Database Integration
+- Real-world Use Case
+- CRUD Operations
+- Data Persistence
+- Event Handling
+
+## What Would Make It Stronger?
+
+- Secure authentication
+- Attendance analytics dashboard
+- Export reports
+- Better UI/UX design
+- OOP-based architecture
+- Modular code structure
+
