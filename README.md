@@ -127,9 +127,7 @@ project/
 
 # Mockups
 
-<img width="1080" height="1920" alt="repo1" src="https://github.com/user-attachments/assets/efed8392-5485-4ebf-9464-0c180e6923d0" />
-
-<img width="1080" height="1920" alt="repo2" src="https://github.com/user-attachments/assets/4ea538a0-e4db-4b62-8435-641f48bb3c18" />
+<img width="699" height="622" alt="Screenshot 2026-06-08 164355" src="https://github.com/user-attachments/assets/2f428e9d-238c-47bc-b3d3-5fbae253ca2a" />
 
 
 # Learning Outcomes
