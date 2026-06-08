@@ -127,7 +127,7 @@ project/
 
 # Mockups
 
-<img width="699" height="622" alt="Screenshot 2026-06-08 164355" src="https://github.com/user-attachments/assets/2f428e9d-238c-47bc-b3d3-5fbae253ca2a" />
+<img width="706" height="628" alt="Screenshot 2026-06-08 164749" src="https://github.com/user-attachments/assets/2895eba2-1c86-45f3-aa1d-892e4f1969d1" />
 
 
 # Learning Outcomes
