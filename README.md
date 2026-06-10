@@ -129,7 +129,6 @@ project/
 
 <img width="706" height="628" alt="Screenshot 2026-06-08 164749" src="https://github.com/user-attachments/assets/2895eba2-1c86-45f3-aa1d-892e4f1969d1" />
 
-
 # Learning Outcomes
 
 Through this project, the following concepts were learned:
